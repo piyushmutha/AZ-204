@@ -21,7 +21,6 @@ Quick reference to AZ-204 certification
     * Triggered on a schedule or other external events
     
     **Design-First Approach**
-    
     It includes user interface in which you can design the workflow. It includes the following technologies:
     * Logic Apps
     * Microsoft Power Automate
