@@ -12,6 +12,14 @@ Quick reference to AZ-204 certification
     * Microsoft Power Automate
     * WebJobs
     * Azure Functions
+    
+    These four technologies have the following similarities:
+    * Accept Inputs
+    * Run Actions
+    * Include Condition
+    * Produce Output
+    
+    
 
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
