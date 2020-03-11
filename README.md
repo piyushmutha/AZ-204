@@ -27,11 +27,11 @@ Quick reference to AZ-204 certification
 
 1. [Choose a messaging model in Azure to loosely connect your services](https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/)
 
-1. [Implement message-based communication workflows with Azure Service Bus]https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
+1. [Implement message-based communication workflows with Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
 
 1. [Communicate between applications with Azure Queue storage](https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/)
 
-1. [Enable reliable messaging for Big Data applications using Azure Event Hubs](Enable reliable messaging for Big Data applications using Azure Event Hubs)
+1. [Enable reliable messaging for Big Data applications using Azure Event Hubs](https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/)
 
 
 ### [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/)
