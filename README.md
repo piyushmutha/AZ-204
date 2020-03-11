@@ -5,6 +5,13 @@ Quick reference to AZ-204 certification
 ### [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 
 1. [Choose the best Azure service to automate your business processes](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/)
+    
+    Business processes modeled in software are often called workflows. Azure includes four different technologies that you can use to build and implement workflows that integrate multiple systems:
+
+    * Logic Apps
+    * Microsoft Power Automate
+    * WebJobs
+    * Azure Functions
 
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
