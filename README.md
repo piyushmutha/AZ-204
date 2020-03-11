@@ -13,14 +13,12 @@ Quick reference to AZ-204 certification
     * WebJobs
     * Azure Functions
     
-    
     These four technologies have the following similarities:
     * Accept Inputs
     * Run Actions
     * Include Condition
     * Produce Output
     * Triggered on a schedule or other external events
-    
     
     **Design-First Approach**
     
