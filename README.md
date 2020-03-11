@@ -88,14 +88,46 @@ Quick reference to AZ-204 certification
 
 ### [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 
-1. []()
+1. [Prepare your development environment for Azure development](https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/)
+
+1. [Host a web application with Azure App service](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/)
+
+1. [Publish a web app to Azure with Visual Studio](https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/)
+
+1. [Stage a web app deployment for testing and rollback by using App Service deployment slots](https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/)
+
+1. [Scale an App Service web app to efficiently meet demand with App Service scale up and scale out](https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/)
+
+1. [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/)
 
 
 ### [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science/)
 
-1. []()
+1. [Introduction to Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-databricks/)
+
+1. [Read and write data by using Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/read-and-write-data-using-azure-databricks/)
+
+1. [Perform exploratory data analysis with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/perform-exploratory-data-analysis-with-azure-databricks/)
+
+1. [Train, evaluate, and select machine-learning models with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/perform-model-training-evaluation-and-selection-with-azure-databricks/)
+
+1. [Deep learning with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/deep-learning-in-azure-databricks/)
+
+1. [Perform text analytics with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/perform-text-analytics-with-azure-databricks/)
 
 
 ### [Secure your cloud data](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/)
 
-1. []()
+1. [Security, responsibility, and trust in Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/)
+
+1. [Top 5 security items to consider before pushing to production](https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/)
+
+1. [Configure security policies to manage data](https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/)
+
+1. [Secure your Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/)
+
+1. [Configure and manage secrets in Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/)
+
+1. [Secure your Azure resources with role-based access control (RBAC)](https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/)
+
+1. [Secure your Azure SQL Database](https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/)
