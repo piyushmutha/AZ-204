@@ -20,8 +20,7 @@ Quick reference to AZ-204 certification
     * Produce Output
     * Triggered on a schedule or other external events
     
-    **Design-First Approach**
-    
+    **Design-First Approach**<br/>
     It includes user interface in which you can design the workflow and includes the following technologies:
     * Logic Apps<br/>
         A service that you can use to automate, orchestrate and integrate disparate components of a distributed application. You can use Logic Apps Designer to define the workflow. Alternatively, you may prefer to code the workflow in JSON notations using the code-view.
