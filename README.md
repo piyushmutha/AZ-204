@@ -22,11 +22,11 @@ Quick reference to AZ-204 certification
     **Design-First Approach**<br/>
     It includes user interface in which you can design the workflow and includes the following technologies:
     * Logic Apps<br/>
-        A service that you can use to automate, orchestrate and integrate disparate components of a distributed application. You can use Logic Apps Designer to define the workflow. Alternatively, you may prefer to code the workflow in JSON notations using the code-view.
+        A service that you can use to automate, orchestrate and integrate disparate components of a distributed application. You can use Logic Apps Designer to define the workflow. Alternatively, you may prefer to code the workflow in JSON notations using the code-view.</br>
         A connector is a Logic Apps component that provides an interface to an external service. Logic Apps provides hundreds of pre-built connectors that you can use to create your apps. If you have an unusual or unique system that you want to call from a Logic Apps, you can create your own connector if your system exposes a REST API.
         
     * Microsoft Power Automate<br/>
-        A service that you can use to create workflows even when you have no IT Pro experience. You can create workflows that integrate and orchestrate many different components by using the web or mobile app.
+        A service that you can use to create workflows even when you have no IT Pro experience. You can create workflows that integrate and orchestrate many different components by using the web or mobile app.</br>
         Under the hood, Microsoft Power Automate is built on Logic Apps. This fact means that Power Automate supports the same range of connectors and actions. You can also use custom connectors in Microsoft Power Automate.
     
 
