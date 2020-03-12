@@ -6,14 +6,13 @@ Quick reference to AZ-204 certification
 
 1. [Choose the best Azure service to automate your business processes](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/)
     
-    Business processes modeled in software are often called **workflows**. Azure includes four different technologies that you can use to build and implement workflows that integrate multiple systems:
-
+    Business processes modeled in software are often called **workflows**. Azure includes four different technologies that you can use to build and implement workflows that integrate multiple systems<br/>
     * Logic Apps
     * Microsoft Power Automate
     * WebJobs
     * Azure Functions
     
-    These four technologies have the following similarities:
+    These four technologies have the following similarities<br/>
     * Accept Inputs
     * Run Actions
     * Include Condition
