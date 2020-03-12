@@ -29,6 +29,12 @@ Quick reference to AZ-204 certification
         A service that you can use to create workflows even when you have no IT Pro experience. You can create workflows that integrate and orchestrate many different components by using the web or mobile app.</br>
         Under the hood, Microsoft Power Automate is built on Logic Apps. This fact means that Power Automate supports the same range of connectors and actions. You can also use custom connectors in Microsoft Power Automate.
     
+    **Design-First technologies compared**
+    |               | Microsoft Power Automate | Logic Apps |
+    | ------------- | ------------------------ | ---------- |
+    | Intended users  | Office workers and business analysts | Developers and IT pros |
+    | Intended scenarios  | GUI only. Browser and mobile app | Browser and Visual Studio designer. Code editing is possible |
+    | Application Lifecycle Management | Power Automate includes testing and production environments | Logic Apps source code can be included in Azure DevOps and source code management systems |
 
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
