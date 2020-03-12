@@ -35,6 +35,11 @@ Quick reference to AZ-204 certification
     | Intended users  | Office workers and business analysts | Developers and IT pros |
     | Intended scenarios  | GUI only. Browser and mobile app | Browser and Visual Studio designer. Code editing is possible |
     | Application Lifecycle Management | Power Automate includes testing and production environments | Logic Apps source code can be included in Azure DevOps and source code management systems |
+    
+    **Code-First Approach**<br/>
+    When you need more control over the performance of your workflow or need to write custom code as part of your business process, the following technologies would help:
+    * WebJobs and the WebJobs SDK
+    * Azure Functions
 
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
