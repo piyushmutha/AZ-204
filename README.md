@@ -38,8 +38,16 @@ Quick reference to AZ-204 certification
     
     **Code-First Approach**<br/>
     When you need more control over the performance of your workflow or need to write custom code as part of your business process, the following technologies would help:
-    * **WebJobs and the WebJobs SDK**</b>
+    * **WebJobs and the WebJobs SDK**<br/>
+        WebJobs are a part of the Azure App Service that you can use to run a program or script automatically. The two kinds are:
+        * Continous</b>
+        * Triggered</b>
+        
+        You can create a Webjob by using Shell Scripts (Windows, Powershell, Bash) or by writing a program in PHP, Python, Node.js, or Java. You can also program a WebJob by using the .NET Framework or the .NET Core Framework and a .NET language such as C# or VB.NET.<br/>
+        Along with C# .NET you can use the WebJobs SDK which includes a range of classes, such as JobHostConfiguration and HostBuilder, which reduce the amount of code required to interact with the Azure App Service.</b>
+        
     * **Azure Functions**</b>
+        
 
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
