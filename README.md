@@ -47,7 +47,33 @@ Quick reference to AZ-204 certification
         Along with C# .NET you can use the WebJobs SDK which includes a range of classes, such as JobHostConfiguration and HostBuilder, which reduce the amount of code required to interact with the Azure App Service.</b>
         
     * **Azure Functions**</b>
+        An Azure Function is a simple way for you to run small pieces of code in the cloud, without having to worry about the infrastructure required to host that code. You can write the Function in C#, Java, JavaScript, PowerShell, Python, or any of the languages that are listed in the [Supported languages in Azure Functions article](https://docs.microsoft.com/azure/azure-functions/supported-languages). In addition, with the consumption plan option, you only pay for the time when the code runs. Azure automatically scales your function in response to the demand from users.<br/>
         
+        Following is the list of function triggers:
+        * HTTPTrigger
+        * TimerTrigger
+        * BlobTrigger
+        * CosmosDBTrigger
+        
+        Azure Functions can integrate with many different services both within Azure and from third parties. These services can trigger your function, or send data input to your function, or receive data output from your function.
+        
+    **Code-First technologies compared**
+    
+    In most cases, the simple administration and more flexible coding model provided by Azure Functions may lead you to choose them in preference to WebJobs. However, you may choose WebJobs for the following reasons:
+    * You want the code to be a part of an existing App Service application and to be managed as part of that application, for example in the same Azure DevOps environment.
+    * You need close control over the object that listens for events that trigger the code. This object in question is the JobHost class, and you have more flexibility to modify its behavior in WebJobs.
+    <br/>
+
+    |               | Azure WebJobs | Azure Functions |
+    | ------------- | ------------- | --------------- |
+    | Supported languages | C# if you are using the WebJobs SDK | C#, Java, JavaScript, PowerShell, etc. |
+    | Automatic scaling | No | Yes |
+    | Development and testing in a browser | No | Yes |
+    | Pay-per-use pricing | No | Yes |
+    | Integration with Logic Apps | No | Yes |
+    | Package managers | NuGet if you are using the WebJobs SDK | Nuget and NPM |
+    | Can be part of an App Service application | Yes | No |
+    | Provides close control of JobHost | Yes | No |
 
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
