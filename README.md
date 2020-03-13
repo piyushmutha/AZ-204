@@ -76,6 +76,7 @@ Quick reference to AZ-204 certification
     | Provides close control of JobHost | Yes | No |
 
     **Descision Tree**
+    <br/>
     ![Decision Tree](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/media/3-service-choice-flow-diagram.png)
     
     
