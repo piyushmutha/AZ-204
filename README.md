@@ -38,7 +38,7 @@ Quick reference to AZ-204 certification
     
     **Code-First Approach**<br/>
     When you need more control over the performance of your workflow or need to write custom code as part of your business process, the following technologies would help:
-    * **WebJobs and the WebJobs SDK**<br/>
+    * **Azure WebJobs**<br/>
         WebJobs are a part of the Azure App Service that you can use to run a program or script automatically. The two kinds are:
         * Continous</b>
         * Triggered</b>
