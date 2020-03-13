@@ -75,6 +75,10 @@ Quick reference to AZ-204 certification
     | Can be part of an App Service application | Yes | No |
     | Provides close control of JobHost | Yes | No |
 
+    **Descision Tree**
+    ![Decision Tree](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/media/3-service-choice-flow-diagram.png)
+    
+    
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
 1. [Execute an Azure Function with triggers](https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/)
