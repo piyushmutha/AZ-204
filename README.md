@@ -6,7 +6,7 @@ Quick reference to AZ-204 certification
 
 1. [Choose the best Azure service to automate your business processes](/Create%20Serverless%20Applications/1.%20Choose%20the%20best%20Azure%20service%20to%20automate%20your%20business%20processes.md)
     
-1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
+1. [Create serverless logic with Azure Functions](/Create%20Serverless%20Applications/2.%20Create%20serverless%20logic%20with%20Azure%20Functions.md)
 
 1. [Execute an Azure Function with triggers](https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/)
 
