@@ -4,7 +4,7 @@ Quick reference to AZ-204 certification
 
 ### [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 
-1. [Choose the best Azure service to automate your business processes](https://github.com/piyushmutha/AZ-204/blob/master/Create%20Serverless%20Applications/1.%20Choose%20the%20best%20Azure%20service%20to%20automate%20your%20business%20processes.md)
+1. [Choose the best Azure service to automate your business processes](/Create%20Serverless%20Applications/1.%20Choose%20the%20best%20Azure%20service%20to%20automate%20your%20business%20processes.md)
     
 1. [Create serverless logic with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
