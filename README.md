@@ -8,19 +8,19 @@ Quick reference to AZ-204 certification
     
 1. [Create serverless logic with Azure Functions](/Create%20Serverless%20Applications/2.%20Create%20serverless%20logic%20with%20Azure%20Functions.md)
 
-1. [Execute an Azure Function with triggers](https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/)
+1. [Execute an Azure Function with triggers](/Create%20Serverless%20Applications/3.%20Execute%20an%20Azure%20Function%20with%20triggers.md)
 
-1. [Chain Azure Functions together using input and output bindings](https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/)
+1. [Chain Azure Functions together using input and output bindings](/Create%20Serverless%20Applications/4.%20Chain%20Azure%20Functions%20together%20using%20input%20and%20output%20bindings.md)
 
-1. [Create a long-running serverless workflow with Durable Functions](https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/)
+1. [Create a long-running serverless workflow with Durable Functions](/Create%20Serverless%20Applications/5.%20Create%20a%20long-running%20serverless%20workflow%20with%20Durable%20Functions.md)
 
-1. [Develop, test, and publish Azure Functions by using Azure Functions Core Tools](https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/)
+1. [Develop, test, and publish Azure Functions by using Azure Functions Core Tools](/Create%20Serverless%20Applications/6.%20Develop%2C%20test%2C%20and%20publish%20Azure%20Functions%20by%20using%20Azure%20Functions%20Core%20Tools.md)
 
-1. [Develop, test, and deploy an Azure Function with Visual Studio](https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/)
+1. [Develop, test, and deploy an Azure Function with Visual Studio](/Create%20Serverless%20Applications/7.%20Develop%2C%20test%2C%20and%20deploy%20an%20Azure%20Function%20with%20Visual%20Studio.md)
 
-1. [Monitor GitHub events by using a webhook with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/)
+1. [Monitor GitHub events by using a webhook with Azure Functions](/Create%20Serverless%20Applications/8.%20Monitor%20GitHub%20events%20by%20using%20a%20webhook%20with%20Azure%20Functions.md)
 
-1. [Enable automatic updates in a web application using Azure Functions and SignalR Service](https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
+1. [Enable automatic updates in a web application using Azure Functions and SignalR Service](/Create%20Serverless%20Applications/9.%20Enable%20automatic%20updates%20in%20a%20web%20application%20using%20Azure%20Functions%20and%20SignalR%20Service.md)
 
 
 ### [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
