@@ -25,13 +25,13 @@ Quick reference to AZ-204 certification
 
 ### [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
 
-1. [Choose a messaging model in Azure to loosely connect your services](https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/)
+1. [Choose a messaging model in Azure to loosely connect your services](/Connect%20your%20services%20together/1.%20Choose%20a%20messaging%20model%20in%20Azure%20to%20loosely%20connect%20your%20services.md)
 
-1. [Implement message-based communication workflows with Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
+1. [Implement message-based communication workflows with Azure Service Bus](/Connect%20your%20services%20together/2.%20Implement%20message-based%20communication%20workflows%20with%20Azure%20Service%20Bus.md)
 
-1. [Communicate between applications with Azure Queue storage](https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/)
+1. [Communicate between applications with Azure Queue storage](Connect%20your%20services%20together/3.%20Communicate%20between%20applications%20with%20Azure%20Queue%20storage.md)
 
-1. [Enable reliable messaging for Big Data applications using Azure Event Hubs](https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/)
+1. [Enable reliable messaging for Big Data applications using Azure Event Hubs](/Connect%20your%20services%20together/4.%20Enable%20reliable%20messaging%20for%20Big%20Data%20applications%20using%20Azure%20Event%20Hubs.md)
 
 
 ### [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/)
