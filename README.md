@@ -36,15 +36,15 @@ Quick reference to AZ-204 certification
 
 ### [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/)
 
-1. [Provision an Azure SQL database to store application data](https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/)
+1. [Provision an Azure SQL database to store application data](/Work%20with%20relational%20data%20in%20Azure/1.%20Provision%20an%20Azure%20SQL%20database%20to%20store%20application%20data.md)
 
-1. [Create an Azure Database for PostgreSQL server](https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/)
+1. [Create an Azure Database for PostgreSQL server](/Work%20with%20relational%20data%20in%20Azure/2.%20Create%20an%20Azure%20Database%20for%20PostgreSQL%20server.md)
 
-1. [Scale multiple Azure SQL Databases with SQL elastic pools](https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/)
+1. [Scale multiple Azure SQL Databases with SQL elastic pools](/Work%20with%20relational%20data%20in%20Azure/3.%20Scale%20multiple%20Azure%20SQL%20Databases%20with%20SQL%20elastic%20pools.md)
 
-1. [Secure your Azure SQL Database](https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/)
+1. [Secure your Azure SQL Database](/Work%20with%20relational%20data%20in%20Azure/4.%20Secure%20your%20Azure%20SQL%20Database.md)
 
-1. [Develop and configure an ASP.NET application that queries an Azure SQL database](https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/)
+1. [Develop and configure an ASP.NET application that queries an Azure SQL database](/Work%20with%20relational%20data%20in%20Azure/5.%20Develop%20and%20configure%20an%20ASP.NET%20application%20that%20queries%20an%20Azure%20SQL%20database.md)
 
 
 ### [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/)
