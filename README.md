@@ -49,15 +49,15 @@ Quick reference to AZ-204 certification
 
 ### [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/)
 
-1. [Choose a data storage approach in Azure](https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/)
+1. [Choose a data storage approach in Azure](/Store%20data%20in%20Azure/1.%20Choose%20a%20data%20storage%20approach%20in%20Azure.md)
 
-1. [Create an Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/)
+1. [Create an Azure Storage account](/Store%20data%20in%20Azure/2.%20Create%20an%20Azure%20Storage%20account.md)
 
-1. [Connect an app to Azure Storage](https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/)
+1. [Connect an app to Azure Storage](/Store%20data%20in%20Azure/3.%20Connect%20an%20app%20to%20Azure%20Storage.md)
 
-1. [Secure your Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/)
+1. [Secure your Azure Storage account](/Store%20data%20in%20Azure/4.%20Secure%20your%20Azure%20Storage%20account.md)
 
-1. [Store application data with Azure Blob storage](https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/)
+1. [Store application data with Azure Blob storage](/Store%20data%20in%20Azure/5.%20Store%20application%20data%20with%20Azure%20Blob%20storage.md)
 
 
 ### [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)
