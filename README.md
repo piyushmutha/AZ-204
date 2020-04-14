@@ -62,13 +62,13 @@ Quick reference to AZ-204 certification
 
 ### [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)
 
-1. [Introduction to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
+1. [Introduction to Azure virtual machines](/5.%20Deploy%20a%20website%20with%20Azure%20virtual%20machines/1.%20Introduction%20to%20Azure%20virtual%20machines.md)
 
-1. [Create a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/)
+1. [Create a Linux virtual machine in Azure](/5.%20Deploy%20a%20website%20with%20Azure%20virtual%20machines/2.%20Create%20a%20Linux%20virtual%20machine%20in%20Azure.md)
 
-1. [Create a Windows virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/)
+1. [Create a Windows virtual machine in Azure](/5.%20Deploy%20a%20website%20with%20Azure%20virtual%20machines/3.%20Create%20a%20Windows%20virtual%20machine%20in%20Azure.md)
 
-1. [Build and run a web application with the MEAN stack on an Azure Linux virtual machine](https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/)
+1. [Build and run a web application with the MEAN stack on an Azure Linux virtual machine](/5.%20Deploy%20a%20website%20with%20Azure%20virtual%20machines/4.%20Build%20and%20run%20a%20web%20application%20with%20the%20MEAN%20stack%20on%20an%20Azure%20Linux%20virtual%20machine.md)
 
 
 ### [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/)
